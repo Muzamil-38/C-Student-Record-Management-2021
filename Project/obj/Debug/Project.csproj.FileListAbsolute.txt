@@ -1,0 +1,13 @@
+C:\BULC\Sems 5\Visual Programming\Project\Project\bin\Debug\Project.exe.config
+C:\BULC\Sems 5\Visual Programming\Project\Project\bin\Debug\Project.exe
+C:\BULC\Sems 5\Visual Programming\Project\Project\bin\Debug\Project.pdb
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.Form1.resources
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.exe
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.pdb
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.Advisor.resources
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.showstudentsdb.resources
+C:\BULC\Sems 5\Visual Programming\Project\Project\obj\Debug\Project.Accountant.resources
